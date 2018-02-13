@@ -1,10 +1,10 @@
 #           Sonos Plugin
 #
 #           Original author:    Tester22, 2017, https://github.com/tester22/Domoticz-Sonos
-#           Current author:     G3rard, 2017
+#           Current author:     olli2512, 2018
 #
 """
-<plugin key="Sonos" name="Sonos Players" author="G3rard" version="0.91" wikilink="https://github.com/gerard33/sonos" externallink="https://sonos.com/">
+<plugin key="Sonos" name="Sonos Players" author="G3rard" version="0.92" wikilink="https://github.com/olli2512/sonos_ol" externallink="https://sonos.com/">
     <params>
         <param field="Address" label="IP Address" width="200px" required="true" default="192.168.1.161"/>
         <param field="Mode1" label="Update interval (sec)" width="100px" required="true" default="30"/>
