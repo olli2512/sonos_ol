@@ -4,7 +4,7 @@
 #           Current author:     olli2512, 2018
 #
 """
-<plugin key="Sonos" name="Sonos Players" author="G3rard" version="0.92" wikilink="https://github.com/olli2512/sonos_ol" externallink="https://sonos.com/">
+<plugin key="Sonos" name="Sonos Players by ol" author="G3rard" version="0.92" wikilink="https://github.com/olli2512/sonos_ol" externallink="https://sonos.com/">
     <params>
         <param field="Address" label="IP Address" width="200px" required="true" default="192.168.1.161"/>
         <param field="Mode1" label="Update interval (sec)" width="100px" required="true" default="30"/>
